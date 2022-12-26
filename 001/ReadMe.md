@@ -5,9 +5,32 @@
 • esp32_marauder_v0_10_0_20221222_flipper.bin
 
 ## Achtung: Halte die "BOOT" Taste am DevBoard gedrückt !!
-> jetzt das Wifi_DevBoard via USB-C anschließen 
+#### jetzt das Wifi_DevBoard via USB-C anschließen 
 > _____
-> plugin sound am PC abwarten 
+#### plugin sound am PC abwarten 
 Jetzt erst die "BOOT" Taste los lassen ;)
 > _____
-(jetzt erst die "BOOT" Taste loslassen)
+
+
+#### flash.bat ausführen
+> _____
+> _____
+##### nutze commands:
+> _____
+> 1 & Enter = automatischer Flash
+> _____
+> 2 & Enter = update via .bin (Marauder Ordner)
+> _____
+> 3 & Enter = BackUp wifi einstellungen (blackmagic)
+> _____
+> 4 & Enter = Wifi_DevBoard zurücksetzen
+
+
+
+
+
+
+
+
+
+
