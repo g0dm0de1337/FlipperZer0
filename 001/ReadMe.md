@@ -6,16 +6,16 @@
 
 ## Achtung: Halte die "BOOT" Taste am DevBoard gedrückt !!
 #### jetzt das Wifi_DevBoard via USB-C anschließen 
-> _____
+
 #### plugin sound am PC abwarten 
 Jetzt erst die "BOOT" Taste los lassen ;)
-> _____
+
 
 
 #### flash.bat ausführen
 > _____
 > _____
-##### nutze commands:
+###### nutze commands:
 > _____
 > 1 & Enter = automatischer Flash
 > _____
