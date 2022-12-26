@@ -5,14 +5,14 @@
 • esp32_marauder_v0_10_0_20221222_flipper.bin
 
 ## Achtung: Halte die "BOOT" Taste am DevBoard gedrückt !!
-#### •jetzt das Wifi_DevBoard via USB-C anschließen 
+#### • jetzt das Wifi_DevBoard via USB-C anschließen 
 
-#### •plugin sound am PC abwarten 
-> •Jetzt erst die "BOOT" Taste los lassen ;)
+#### • plugin sound am PC abwarten 
+> • Jetzt erst die "BOOT" Taste los lassen ;)
 
 
 
-#### flash.bat ausführen
+#### • flash.bat ausführen
 ...
 
 ###### Befehle und ihre Bedeutung:
@@ -31,7 +31,7 @@
 ### •Flipper Zer0 abschalten
 ### •Wifi_DevBoard am Flipper Zer0 via GPIO anschließen
 ### •DevBoard LED leuchtet (alles hat geklappt)
-### -FlipperDesktop-
+### ---FlipperDesktop---
 ### Application > GPIO > [ESP32] Wifi Marauder
 
 ###### Penteste deinen Router:
