@@ -26,7 +26,7 @@
 > 4 & Enter = Wifi_DevBoard zurücksetzen
 > _____
 
-#### nutze 1 dann 2 dann 3 für eine volle Installation 
+#### nutze 2 dann 1 dann 3 für eine volle Installation 
 
 ### •Flipper Zer0 abschalten
 ### •Wifi_DevBoard am Flipper Zer0 via GPIO anschließen
