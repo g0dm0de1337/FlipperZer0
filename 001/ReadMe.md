@@ -8,7 +8,7 @@
 #### • jetzt das Wifi_DevBoard via USB-C anschließen 
 
 #### • plugin sound am PC abwarten 
-> • Jetzt erst die "BOOT" Taste los lassen ;)
+
 
 
 
