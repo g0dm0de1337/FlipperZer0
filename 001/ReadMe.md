@@ -19,7 +19,7 @@
 > _____
 > 1 & Enter = automatischer Flash
 > _____
-> 2 & Enter = update via .bin (Marauder Ordner)
+> 2 & Enter = update .bin (speicher in den Marauder Ordner, nochmal 1)
 > _____
 > 3 & Enter = BackUp wifi einstellungen (blackmagic)
 > _____
